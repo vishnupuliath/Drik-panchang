@@ -1,0 +1,19 @@
+{
+  "name": "Nakshatram — Kerala Panchang",
+  "short_name": "Nakshatram",
+  "description": "Kerala lunar calendar reminders based on your birth star",
+  "start_url": "/Drik-panchang/",
+  "scope": "/Drik-panchang/",
+  "display": "standalone",
+  "background_color": "#fff7ed",
+  "theme_color": "#f97316",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
